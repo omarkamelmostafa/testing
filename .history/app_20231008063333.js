@@ -1,4 +1,4 @@
-import { handleScrapping } from "./lib/scraper.js";
+import { handleScrapping } from './lib/scraper.js';
 import { writeExcel, writeJson } from "./utils/index.js";
 
 const main = async () => {
